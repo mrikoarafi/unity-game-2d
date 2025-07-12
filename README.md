@@ -3,11 +3,10 @@
 Feature:
 - Main Menu: Play, Info, Quit
 - Attack Melee
-- Obstacle : Chainsaw, Water, Quiz
+- Obstacle : Chainsaw, Enemy, Water, Quiz
 - Quiz : with blood reduction if wrong
 - Health 6 bar
 - Mushroom add 1 health bar
-- Menu
 
 <img width="1742" height="943" alt="image" src="https://github.com/user-attachments/assets/1982c920-61cd-4abe-b4b7-b96166e25788" />
 <img width="1746" height="969" alt="image" src="https://github.com/user-attachments/assets/72debcc2-faaf-41dc-8023-853290755687" />
